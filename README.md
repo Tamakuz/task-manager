@@ -53,6 +53,8 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme)
 
+Check out the live version of the app here: [Task Manager](https://task-manager-psi-eight.vercel.app/).
+
 Check out the [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
 ## Learn More
